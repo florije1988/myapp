@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">myapp</string>
+    <string name="greeting">Hello World, MyActivity</string>
+    <string name="question_text_view">Are you love she?</string>
+    <string name="incorrect_toast">You are wrong!</string>
+    <string name="correct_toast">You are right!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
 </resources>
