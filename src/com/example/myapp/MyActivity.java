@@ -83,4 +83,9 @@ public class MyActivity extends Activity {
 
         updateQuestion();
     }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
 }
